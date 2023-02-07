@@ -1,0 +1,88 @@
+h1{
+    color:white;
+    font-size: 70px;
+    background:rgb(2,0,36);
+    background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,11,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.onglet{
+    font-size: 30px;
+    display: inline-block;
+    color:white;
+    width: 300px;
+    height: 30px;
+    background:rgb(2,0,36);
+    background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,11,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+body{
+    background-image:url(bg.jpeg);
+}
+
+.occasion{
+    margin-left: 30%;
+    margin-top: 10%;
+    display:block;
+    background-color: grey;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 1px;
+    box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.62);
+}
+
+.neufs{
+    margin-left: 30%;
+    margin-top: 5%;
+    display:block;
+    background-color: grey;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 1px;
+    box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.62);
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background:rgb(2,0,36);
+    background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,11,121,1) 35%, rgba(0,212,255,1) 100%);
+    color:green;
+    text-align: center;
+}
+
+.car th{
+    background: blue;
+    color:white;
+}
+
+.car tr{
+    color:white;
+}
+
+.car{
+    margin-left:30%;
+    margin-top:5%;
+}
+
+.car_img{
+    margin-left:30%;
+    margin-top:10%;
+}
+
+
+.form{
+    margin-left: 30%;
+    margin-top: 10%;
+    display:block;
+    background-color: grey;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 1px;
+    box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.62);
+}
+
